@@ -238,7 +238,6 @@ button:disabled {
     color: var(--text-secondary);
     margin-bottom: 0.75rem;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
