@@ -1,0 +1,14 @@
+{
+  "name": "content-hub-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for ContentHub",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
